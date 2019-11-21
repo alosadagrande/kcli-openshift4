@@ -9,3 +9,6 @@ oc
 openshift-install*
 extras/cnv
 jq
+parameters.yml
+secret_*
+
